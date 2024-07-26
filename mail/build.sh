@@ -19,7 +19,7 @@ fi
 rm -f $PORTING/latest-glassfish.zip
 rm -rf $OUTPUT
 rm -rf $PORTING/dist/
-rm -rf $PORTING/payara6
+rm -rf $PORTING/payara7
 
 export WORKSPACE=$PORTING
 export GF_BUNDLE_URL=$PAYARA_URL
